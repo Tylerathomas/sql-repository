@@ -22,12 +22,6 @@ By looking at the reviews of other companies, I am showing Atmosfy what they nee
 
 Reviews from Twitter, TikTok, anydo.com, and some other playstore apps.
 
-## Notebooks
-
-Links to the notebook and a description of the notebook's purpose.
-
-Your GitHub repository should contain your data_collection.ipynb and sql_analysis.ipynb notebooks.
-
 ## Future Improvements
 
 Picking better data sources, these sources had many inconsistencies. Spending more time to clean would be nice. Not rushing this in the last week of my school year would also be nice.
